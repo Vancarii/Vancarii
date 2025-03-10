@@ -5,5 +5,5 @@
 
 🔭 I’m currently working on a [Molu](https://github.com/Vancarii/molu), a Swift Mobile Application that allows users to make incremental payments for second hand products
 
-🔗Check out my [portfolio](www.yechengwang.ca)!
+🔗Check out my [portfolio](https://www.yechengwang.ca)!
 
